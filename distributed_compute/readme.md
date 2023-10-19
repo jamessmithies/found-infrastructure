@@ -1,0 +1,3 @@
+This folder contains scripts that are designed to run on a Dask cluster (originally tested on a Raspberry Pi cluster). Refer to 'standalone' for scripts designed to run on a single machine. The compute is performed against the individual novel text files (rather than the option of a single merged file in standalone) to facilitate parallelisation.
+
+Note the additional network complexity of a cluster computer, including the need to configure and programmatically access a common network store (in this case a common mounted Samba share for all nodes in the cluster), and instantiation of a Dask client before processing can begin.
