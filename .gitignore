@@ -1,3 +1,7 @@
+# Large files
+merged_sentiment_results.txt
+merged_sentiment_results.csv
+
 # iPython Notebooks
 .ipynb_checkpoints
 
