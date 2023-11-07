@@ -1838,7 +1838,6 @@ perusal of the following letter, addressed to him by name:--
 
 
 
-     by the character which you have made for yourself in its paths, I
      do not doubt but you will feel as I do. I shall therefore write to
      you without reserve. I am a lady not possessing that modesty which
      should make me hold a low opinion of my own talents, and equally
@@ -1849,7 +1848,6 @@ perusal of the following letter, addressed to him by name:--
      Hitherto I have kept back my name, but I hope soon to be allowed to
      see it on the title-page of a book which shall not shame me.
 
-     enough to myself, that I have just completed a novel in three
      volumes, and to suggest to you that it should make its first
      appearance to the world in the pages of the magazine under your
      control. I will frankly tell you that I am not myself fond of this
@@ -1862,7 +1860,6 @@ perusal of the following letter, addressed to him by name:--
      suspect for a moment that my words will ever be repeated to my
      respectable friends in the Row.
 
-     perhaps it may be better that I should send it to you. Young ladies
      should not run about,--even after editors; and it might be so
      probable that I should not find you at home. Messrs. X., Y., and Z.
      have read the MS.,--or more probably the young man whom they keep
@@ -1874,7 +1871,7 @@ perusal of the following letter, addressed to him by name:--
 
 
 
-     ears.”
+
 
 For facility in the telling of our story we will call this especial
 editor Mr. Brown. Mr. Brown’s first feeling on reading the letter was
@@ -1937,7 +1934,6 @@ young lady as follows:--
 
 
 
-     will be very happy to see her MS. Perhaps she will send it to the
      above address. The Editor has seen Mr. Z., of Paternoster Row, who
      speaks highly of the work. A novel, however, may be very clever and
      yet hardly suit a magazine. Should it be accepted by the ‘Olympus,’
@@ -1957,25 +1953,21 @@ fairly be said that his editorial hair stood on end:
 
 
 
-     nothing, and I won’t send you my MS. unless you are more in
      earnest about it. I know the way in which rolls of paper are shoved
      into pigeon-holes and left there till they are musty, while the
      writers’ hearts are being broken. My heart may be broken some day,
      but not in that way.
 
-     great deal too like a doctor’s appointment, and I don’t think much
      of you if you are only at your work one hour in the week. Indeed, I
      won’t go to you at all. If an interview is necessary you can come
      here. But I don’t know that it will be necessary.
 
-     me very much more than his. I don’t suppose he’d know the inside of
      a book if he saw it. I have given the very best that is in me to my
      work, and I know that it is good. Even should you say that it is
      not I shall not believe you. But I don’t think you will say so,
      because I believe you to be in truth a clever fellow in spite of
      your ‘compliments’ and your ‘two and three o’clock on a Friday.’
 
-     shall be conveyed to you. And please to say how much I shall be
      paid for it, for I am as poor as Job. And name a date. I won’t be
      put off with your ‘some time must elapse.’ It shall see the light,
      or, at least, a part of it, within six months. That is my
@@ -1983,7 +1975,6 @@ fairly be said that his editorial hair stood on end:
      suiting magazines,--unless you mean that as an excuse for
      publishing so many stupid ones as you do.
 
-     want it to come out in the ‘Olympus;’ and if we can I shall be so
      happy to come to terms with you.
 
 “Yours as I find you,
@@ -2027,7 +2018,6 @@ next letter was as follows:--
 
 
 
-     intended to be as civil and as nice as possible. I am quite in
      earnest, and you had better send the MS. As to all the questions
      you ask, I cannot answer them to any purpose till I have read the
      story,--which I will promise to do without subjecting it to the
@@ -2125,7 +2115,6 @@ that evening:--
 
 
 
-     novel without seeing you. It so often happens that the answer can’t
      be Yes or No. You said something very cruel about dear old X., but
      after all he was quite right in his verdict about the book. There
      is a great deal in it; but it evidently was not written to suit
@@ -2483,7 +2472,6 @@ Two days after this there came the promised letter from Josephine.
 
 
 
-     without seeing me. I hardly ever see anybody; but, of course, you
      must come if you will. I got my sister to go because she is so
      gentle and nice, that I thought she could persuade anybody to do
      anything. She says that you know Mr. Puffle quite well, which seems
@@ -3287,7 +3275,6 @@ Then he repeated to me various stanzas, of which I still remember one:--
 
     “Tuam duxi, verum est, filiam, sed merum est;
 
-     Venit in ephippio mihi, et concipio
 
 
 This cheered me a little, for I thought that Pat was good at these
@@ -4284,7 +4271,6 @@ Some few years since we received the following letter:--
 
 
 
-     provide me with it if it be within your power to do so. My capacity
      for such work is not small, and my acquirements are considerable.
      My need is very great, and my views in regard to remuneration are
      modest. I was educated at ----, and was afterwards a scholar of
@@ -4315,7 +4301,6 @@ Some few years since we received the following letter:--
      amidst the liberty of the lower orders. My life, of course, has
      been a mistake. Indeed, to live at all,--is it not a folly?
 
-     ‘Penny Dreadfuls.’ Your august highness in literature has perhaps
      never heard of a ‘Penny Dreadful.’ I write for them matter, which
      we among ourselves call ‘blood and nastiness,’--and which is copied
      from one to another. For this I am paid forty-five shillings a
@@ -6009,7 +5994,6 @@ following letter:--
 
 
 
-     endeavour to find for me an assistant in arranging and
      reconstructing the fragments of my work on The Metres of the Greek
      Dramatists. Your promise has been an additional kindness.” Dear,
      courteous, kind old gentleman! For we knew well that no slightest
@@ -6028,7 +6012,6 @@ following letter:--
      terrible and fatal catastrophe of one whose scholarship was
      infinitely more finished and more ripe than mine.
 
-     pray remember that it will give very great pleasure to myself and
      to my daughter to welcome you at our parsonage.
 
 “Believe me to be,
@@ -6607,7 +6590,6 @@ managing on their behalf.
 
 
 
-     Duke of Sussex’s Own regiment, to call upon you for payment of the
      sum of twenty-five guineas due to him for a manuscript essay on
      Costume, supplied by his wife to the ---- Magazine, which is, we
      believe, your property, by special contract with Mr. ----, the
